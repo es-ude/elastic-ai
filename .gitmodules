@@ -1,0 +1,9 @@
+[submodule "ElasticNodeHardware"]
+	path = ElasticNodeHardware
+	url = git@github.com:es-ude/ElasticNodeHardware.git
+[submodule "elastic-ai.runtime.enV5"]
+	path = elastic-ai.runtime.enV5
+	url = git@github.com:es-ude/elastic-ai.runtime.enV5.git
+[submodule "elastic-ai.creator"]
+	path = elastic-ai.creator
+	url = git@github.com:es-ude/elastic-ai.creator.git
